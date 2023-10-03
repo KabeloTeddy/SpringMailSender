@@ -22,7 +22,7 @@ public class EmailSendingService {
         mailsender.send(message);
 
         //Just for confirmation
-        System.out.println("The email has been set!!!");
+        System.out.println("The email has been sent!!!");
 
     }
 }
